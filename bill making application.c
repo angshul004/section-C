@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
+//youtube link: https://youtu.be/RVpDvGGYaFM
 
 #define MAX_ITEMS 50
 #define GST_RATE 0.18
